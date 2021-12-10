@@ -17,3 +17,6 @@ jobs:
           name: menu-server
           path: target/menu-server.jar
         
+
+ 
+
